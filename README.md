@@ -1,1 +1,1 @@
-VVVV plugin for IDS uEye cameras.
+[VVVV](vvvv.org) plugin for IDS uEye cameras.
